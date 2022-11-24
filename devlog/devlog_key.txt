@@ -1,0 +1,15 @@
+[KEY]
+
+    <devlog><!devlog> -- start of devlog
+    ~20XX-XX-XX:00:00 $START -- start date/time of devlog
+    ~20XX-XX-XX:00:00 $END -- end date/time of devlog
+    {branch} -- git branch name
+    Started -- initiated
+    Created -- create file
+    Updated -- updated file
+    ! -- end of file
+
+[!KEY]
+
+Devlog is used to document significant or meaningful changes done to the application. It will not document every change done
+to the application. Github will track all changes and commits and so Devlog's purpose is to summarize the main changes.

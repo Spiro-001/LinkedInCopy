@@ -1,0 +1,11 @@
+<devlog>
+    ~2022-11-23-21:44 $START
+    
+    {main}
+        + Started : application/connectin
+        + Started : git {main}
+        + Updated : README.md
+        + Created : active record relationship model diagram
+
+    ~2022-11-24-00:10 $END
+<!devlog>
