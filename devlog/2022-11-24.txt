@@ -1,0 +1,8 @@
+<devlog>
+    ~2022-11-24-11:50 $START
+    
+    {main}
+        + Created : active record models
+
+    ~2022-11-24-00:00 $END
+<!devlog>
