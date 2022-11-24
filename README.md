@@ -1,24 +1,18 @@
-# README
+# FAQ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby : v3.1.2
+* Node : v18.12.1
+* NPM : v9.1.2
+* PostgreSQL : v14.6
 
-Things you may want to cover:
+* System dependencies :
 
-* Ruby version
+* Configuration :
 
-* System dependencies
+* Database creation : PostgreSQL
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
+* Database initialization :
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+* Deployment instructions :
