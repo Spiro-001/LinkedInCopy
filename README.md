@@ -1,9 +1,10 @@
 # FAQ
 
-* Ruby : v3.1.2
-* Node : v18.12.1
-* NPM : v9.1.2
-* PostgreSQL : v14.6
+## Versions |
++ Ruby : v3.1.2
++ Node : v18.12.1
++ NPM : v9.1.2
++ PostgreSQL : v14.6
 
 * System dependencies :
 
